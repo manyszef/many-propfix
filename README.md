@@ -12,8 +12,11 @@ RegisterCommand('propfix', function()
             DeleteObject(v)
             
             DeleteEntity(v)
+            
         end
+        
     end
-end)
-
+    
+ end)
+ 
 DODAJ TO DO CLIENTSIDE
